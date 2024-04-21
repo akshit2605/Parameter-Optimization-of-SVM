@@ -5,12 +5,15 @@ UCS654: Predictive Analytics using Statistics
 Submitted By: Akshit Singh,102103767, 3CO27
 
 Support Vector Machine
+
 In machine learning, support vector machines or SVMs are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis. It is used to find a hyperplane that best separates the two classes, or the plane that has the maximum distance from both the classes. SVM works best with smaller datasets.
 
 Parameter Optimization
+
 Optimization of parameter values means finding the best combination of the parameters that governs the model, to enable it to perform the given task with relative accuracy. The hyperparameters tuned in the SVM model were:-
 
 Parameters	Description
+
 kernel	the type of kernel used for the SVM
 c (epsilon)	penalty parameter of the error term
 degree (nu)	the degree of the polynomial kernel
