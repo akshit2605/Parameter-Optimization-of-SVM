@@ -37,3 +37,13 @@ Data Analytics and Parameter Optimization steps
 Final Result Table
 
 ![image](https://github.com/akshit2605/Parameter-Optimization-of-SVM/assets/100219639/7b9152e7-9f58-4686-a810-adb5518de882)
+
+Convergence Graph
+
+![image](https://github.com/akshit2605/Parameter-Optimization-of-SVM/assets/100219639/c5a384ea-4998-4164-bfdd-540372a4a474)
+
+Conclusion
+
+From the table, it can be concluded that Sample 8 shows the best accuracy of 0.97, and hence the most optimized parameters being kernel= linear, Nu= 4.53, epsilon= 7.02. From the convergence graph, it can be concluded that the objective function decreases and increases rapidly in the earlier iterations. In the later iterations, the function seems to be converging, and will ultimately lead to a stable solution after further more iterations.
+
+
